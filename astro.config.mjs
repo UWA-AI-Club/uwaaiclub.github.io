@@ -7,6 +7,7 @@ import mdx from '@astrojs/mdx';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://uwa-ai-club.github.io',
+  base: '/website',
   integrations: [mdx()],
   vite: {
     plugins: [tailwindcss()]

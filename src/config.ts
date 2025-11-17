@@ -95,21 +95,17 @@ export interface SiteConfig {
  * Update these values to customize your portfolio
  */
 export const siteConfig: SiteConfig = {
-  name: "🌻 Bloomfolio",
-  title: "Astro Portfolio Template built with 🌼 DaisyUI",
+  name: "Welcome to the UWA AI Club",
+  title: "Student-run AI community at UWA",
   description:
-    "A modern, responsive, and customizable portfolio template built with Astro and DaisyUI. Perfect for developers, designers, and creatives to showcase their work and skills.",
+    "The UWA AI Club is a student-run community bringing together students passionate about artificial intelligence, data science, and technology-driven innovation. Founded in early 2025, the club empowers students to learn by building through hands-on workshops, collaborative projects, and creative problem-solving challenges. Our mission is to foster a culture of innovation, curiosity, and interdisciplinary exploration at the University of Western Australia, where ideas from computing, engineering, business, and the arts intersect through AI.",
   avatar: "../assets/bloomfolio.png",
-  location: "🇧🇷 Brazil",
+  location: "🇦🇺 Australia",
   email: "hello@example.com",
   socialLinks: {
-    github: "https://github.com/lauroguedes",
-    linkedin: "https://linkedin.com/in/lauroguedes",
-    twitter: "https://twitter.com/leowg",
-    bluesky: "https://bsky.app/profile/lauroguedes.bsky.social",
-    instagram: "https://instagram.com/lauroguedes.dev",
-    youTube: "https://youtube.com/leowgweb",
-    codetips: "https://codetips.cloud/u/lauroguedes",
+    github: "https://github.com/UWA-AI-Club",
+    linkedin: "https://au.linkedin.com/company/uwa-ai-club",
+    instagram: "https://instagram.com/uwaaiclub",
   },
   enableThemeSelector: true,
   extraLinks: {

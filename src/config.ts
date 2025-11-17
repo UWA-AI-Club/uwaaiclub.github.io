@@ -101,12 +101,11 @@ export const siteConfig: SiteConfig = {
     "The UWA AI Club is a student-run community bringing together students passionate about artificial intelligence, data science, and technology-driven innovation. Founded in early 2025, the club empowers students to learn by building through hands-on workshops, collaborative projects, and creative problem-solving challenges. Our mission is to foster a culture of innovation, curiosity, and interdisciplinary exploration at the University of Western Australia, where ideas from computing, engineering, business, and the arts intersect through AI.",
   avatar: "../assets/bloomfolio.png",
   location: "🇦🇺 Australia",
-  email: "hello@example.com",
+  email: "uwaaiclub@gmail.com",
   socialLinks: {
     github: "https://github.com/UWA-AI-Club",
     linkedin: "https://au.linkedin.com/company/uwa-ai-club",
     instagram: "https://instagram.com/uwaaiclub",
-    email: "uwaaiclub@gmail.com",
   },
   enableThemeSelector: true,
   extraLinks: {

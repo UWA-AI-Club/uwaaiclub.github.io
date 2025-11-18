@@ -1,7 +1,7 @@
 ---
 title: "2025/26 Summer Projects"
 description: "Building client and internal AI agents."
-image: "https://api.dicebear.com/9.x/glass/svg?seed=Jocelyn"
+image: "ai_agent.png"
 startDate: "2025-11-22"
 skills: ["Python", "Prompt engineering", "Software engineering", "System design"]
 demoLink: "https://github.com/UWA-AI-Club"
